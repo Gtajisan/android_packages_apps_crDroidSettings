@@ -16,7 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- App Title -->
+    <!-- maintainer -->
+    <string name="maintainer" translatable="false">Maintainer</string>
+    <string name="maintainer_name" translatable="false">Unknown</string>
+     
+     <!-- App Title -->
     <string name="crdroid_settings_title">crDroid Settings</string>
     <string name="crdroid_settings_summary">Open goodness</string>
     <string name="reset_settings_title">Reset settings</string>
